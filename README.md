@@ -1,2 +1,5 @@
-# Invoice-Project
-This repository is for Invoice Project.
+# Blockchain-Enabled Invoice Management System for Streamlined Reconciliation
+### Problem Statement Description: 
+In the ever-evolving business landscape, efficiently managing invoices amid a diverse array of suppliers and items poses intricate reconciliation challenges. 
+### Expected Outcome:
+Utilize suitable blockchain platform like Ethereum and programming language like Solidity to automate and enforce the invoicing processes,updating payment statuses including verification and settlement.
